@@ -1,0 +1,987 @@
+﻿Log file open, 06/09/19 10:31:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Norilsk_Weapons
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184594
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz, GPU: NVIDIA GeForce GTX 560 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: H:/Workbench/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.09-07.31.53:447][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.09-07.31.53:447][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.09-07.31.53:463][  0]LogHAL: Display: Platform has ~ 8 GB [8589139968 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.09-07.31.53:463][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.09-07.31.53:463][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.09-07.31.53:464][  0]LogInit: Computer: ELBER-ПК
+[2019.06.09-07.31.53:464][  0]LogInit: User: Elber
+[2019.06.09-07.31.53:464][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.09-07.31.53:464][  0]LogInit: High frequency timer resolution =2.539091 MHz
+[2019.06.09-07.31.53:464][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.06.09-07.31.53:464][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.09-07.31.53:464][  0]LogMemory: Process Physical Memory: 101.57 MB used, 101.57 MB peak
+[2019.06.09-07.31.53:464][  0]LogMemory: Process Virtual Memory: 100.05 MB used, 100.05 MB peak
+[2019.06.09-07.31.53:464][  0]LogMemory: Physical Memory: 3029.75 MB used,  5161.49 MB free, 8191.24 MB total
+[2019.06.09-07.31.53:464][  0]LogMemory: Virtual Memory: 475.46 MB used,  5161.49 MB free, 8388608.00 MB total
+[2019.06.09-07.31.53:501][  0]LogInit: Using OS detected language (uk-UA).
+[2019.06.09-07.31.53:501][  0]LogInit: Using OS detected locale (uk-UA).
+[2019.06.09-07.31.53:502][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2019.06.09-07.31.54:244][  0]LogStreaming: Display: Took  0.743s to InitEngineTextLocalization.
+[2019.06.09-07.31.54:245][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.06.09-07.31.54:245][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.06.09-07.31.54:245][  0]LogInit: Setting process to DPI aware
+[2019.06.09-07.31.54:294][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.09-07.31.54:294][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.09-07.31.54:682][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.09-07.31.54:682][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.09-07.31.54:724][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 560 Ti' (Feature Level 11_0)
+[2019.06.09-07.31.54:724][  0]LogD3D11RHI:       969/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.09-07.31.54:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.09-07.31.54:733][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.09-07.31.54:733][  0]LogD3D11RHI:     GPU DeviceId: 0x1200 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.09-07.31.54:733][  0]LogWindows: EnumDisplayDevices:
+[2019.06.09-07.31.54:733][  0]LogWindows:    0. 'NVIDIA GeForce GTX 560 Ti' (P:1 D:1)
+[2019.06.09-07.31.54:734][  0]LogWindows:    1. 'NVIDIA GeForce GTX 560 Ti' (P:0 D:0)
+[2019.06.09-07.31.54:734][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2019.06.09-07.31.54:734][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.06.09-07.31.54:735][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.06.09-07.31.54:735][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2019.06.09-07.31.54:735][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 560 Ti
+[2019.06.09-07.31.54:735][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.06.09-07.31.54:735][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.06.09-07.31.54:735][  0]LogRHI: Texture pool is 678 MB (70% of 969 MB)
+[2019.06.09-07.31.54:756][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2019.06.09-07.31.54:756][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.09-07.31.54:775][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.09-07.31.54:778][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Norilsk_Weapons/Intermediate/Shaders/WorkingDirectory/2788/).
+[2019.06.09-07.31.54:778][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/'.
+[2019.06.09-07.31.55:832][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.09-07.31.55:862][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.09-07.31.55:902][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.09-07.31.55:933][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.09-07.31.55:965][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.09-07.31.56:003][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.09-07.31.56:035][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.09-07.31.56:067][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.09-07.31.56:091][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:302][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:303][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.09-07.31.56:305][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.09-07.31.56:430][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.09-07.31.56:430][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.09-07.31.56:488][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.09-07.31.56:488][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.09-07.31.56:514][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.09-07.31.56:542][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.09-07.31.56:569][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.09-07.31.56:603][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.09-07.31.56:623][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.09-07.31.56:623][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.09-07.31.56:743][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.09-07.31.56:743][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.09-07.31.56:743][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.09-07.31.58:953][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.09-07.31.59:144][  0]LogDerivedDataCache: Loaded boot cache 0.19s 83MB C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.09-07.31.59:145][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.09-07.31.59:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Norilsk_Weapons/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.09-07.31.59:145][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.09-07.31.59:145][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Norilsk_Weapons/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.09-07.31.59:145][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.09-07.31.59:168][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.09-07.31.59:180][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.09-07.31.59:180][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.09-07.31.59:180][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.09-07.31.59:224][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.09-07.31.59:227][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.09-07.31.59:227][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.09-07.31.59:358][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2019.06.09-07.32.00:149][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.09-07.32.00:389][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.09-07.32.00:395][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.09-07.32.00:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.09-07.32.00:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.09-07.32.00:395][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.09-07.32.00:426][  0]LogNetVersion: Norilsk_Weapons 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 942580200)
+[2019.06.09-07.32.01:306][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.086453 seconds
+[2019.06.09-07.32.01:324][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.09-07.32.01:324][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.06.09-07.32.01:324][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.09-07.32.02:829][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.09-07.32.02:844][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.09-07.32.03:078][  0]SourceControl: Source control is disabled
+[2019.06.09-07.32.03:078][  0]SourceControl: Source control is disabled
+[2019.06.09-07.32.03:080][  0]SourceControl: Source control is disabled
+[2019.06.09-07.32.03:081][  0]SourceControl: Source control is disabled
+[2019.06.09-07.32.03:303][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.09-07.32.03:419][  0]LogOcInput: OculusInput pre-init called
+[2019.06.09-07.32.03:520][  0]LogEngine: Initializing Engine...
+[2019.06.09-07.32.03:521][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.09-07.32.03:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.09-07.32.03:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.09-07.32.03:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.09-07.32.03:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.09-07.32.03:944][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.09-07.32.03:975][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.09-07.32.04:012][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.09-07.32.04:023][  0]LogInit: FAudioDevice initialized.
+[2019.06.09-07.32.04:024][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.09-07.32.04:516][  0]LogDerivedDataCache: Saved boot cache 0.49s 83MB C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.09-07.32.04:530][  0]LogInit: Texture streaming: Enabled
+[2019.06.09-07.32.04:567][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.09-07.32.04:585][  0]LogInit: Transaction tracking system initialized
+[2019.06.09-07.32.04:627][  0]BlueprintLog: New page: Editor Load
+[2019.06.09-07.32.04:768][  0]LocalizationService: Localization service is disabled
+[2019.06.09-07.32.05:235][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.09-07.32.05:235][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.09-07.32.05:235][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.09-07.32.05:235][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.09-07.32.05:235][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.09-07.32.05:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.09-07.32.05:236][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.09-07.32.05:557][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/' took 0.05s
+[2019.06.09-07.32.05:557][  0]SourceControl: Source control is disabled
+[2019.06.09-07.32.05:680][  0]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.09-07.32.14:980][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.06.09-07.32.14:989][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.09-07.32.18:936][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.06.09-07.32.18:942][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.09-07.32.19:429][  0]Cmd: MAP LOAD FILE="../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.09-07.32.19:431][  0]LightingResults: New page: Lighting Build
+[2019.06.09-07.32.19:438][  0]MapCheck: New page: Map Check
+[2019.06.09-07.32.19:438][  0]LightingResults: New page: Lighting Build
+[2019.06.09-07.32.24:041][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.09-07.32.24:104][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.09-07.32.24:180][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.09-07.32.24:356][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175,537ms to complete.
+[2019.06.09-07.32.24:356][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.928
+[2019.06.09-07.32.24:421][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.32.24:439][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.32.24:456][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.32.24:473][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.32.24:486][  0]LogCollectionManager: Loaded 0 collections in 0.003526 seconds
+[2019.06.09-07.32.24:530][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Saved/Collections/' took 0.01s
+[2019.06.09-07.32.24:530][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/Developers/Elber/Collections/' took 0.01s
+[2019.06.09-07.32.24:530][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/Collections/' took 0.01s
+[2019.06.09-07.32.24:531][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.09-07.32.24:551][  0]LogContentBrowser: Native class hierarchy populated in 0.0201 seconds. Added 2572 classes and 603 folders.
+[2019.06.09-07.32.24:562][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.09-07.32.24:650][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.09-07.32.24:660][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.09-07.32.24:818][  0]LogSlate: Took 0.000618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.09-07.32.24:827][  0]LogSlate: Took 0.000440 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.09-07.32.24:927][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.09-07.32.25:446][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.09-07.32.25:447][  0]LogLoad: (Engine Initialization) Total time: 34.78 seconds
+[2019.06.09-07.32.25:447][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.09-07.32.25:493][  0]LogContentStreaming: Texture pool size now 400 MB
+[2019.06.09-07.32.25:523][  0]LogSlate: Took 0.000396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.09-07.32.26:022][  5]LogAssetRegistry: Asset discovery search completed in 26.6853 seconds
+[2019.06.09-07.32.26:028][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.09-07.32.26:028][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2019.06.09-07.32.26:546][ 27]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.09-07.32.33:458][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.32.43:127][387]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/models/Level/l09_swamp/l09_swamp__1_boloto_gr.l09_swamp__1_boloto_gr
+[2019.06.09-07.32.44:641][387]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2019.06.09-07.32.44:641][387]LogStaticMesh: Allocated 510x157x64 distance field atlas = 9.8Mb, with 44 objects containing 4.5Mb backing data
+[2019.06.09-07.32.44:641][387]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.09-07.33.11:859][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.33.13:309][825]LogAssetEditorManager: Opening Asset editor for Material /Game/models/Level/l09_swamp/Material__36.Material__36
+[2019.06.09-07.33.13:315][825]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.33.13:594][825]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.33.13:622][825]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.33.13:650][825]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.33.13:664][825]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.09-07.33.13:858][825]LogSlate: Took 0.000402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.09-07.33.15:960][848]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.33.16:254][848]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.33.18:992][879]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.33.18:992][879]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.33.19:259][882]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.33.19:806][886]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.33.20:634][895]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.33.21:835][912]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.33.22:439][920]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.33.25:573][965]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.33.27:378][984]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.33.28:005][987]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.33.28:197][988]MaterialEditorStats: Base pass shader: 76 instructions
+[2019.06.09-07.33.28:197][988]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.33.28:197][988]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.09-07.33.28:197][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.09-07.33.28:197][988]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.33.36:269][993]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.33.42:453][104]Cmd: MAP LOAD FILE="../../../../../Norilsk_Weapons/Content/Levels/stalker/l09_swamp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.09-07.33.42:490][104]LightingResults: New page: Lighting Build
+[2019.06.09-07.33.42:494][104]LoadErrors: New page: Loading map: l09_swamp.umap
+[2019.06.09-07.33.42:497][104]MapCheck: New page: Map Check
+[2019.06.09-07.33.42:497][104]LightingResults: New page: Lighting Build
+[2019.06.09-07.33.44:077][104]LogAIModule: Creating AISystem for world l09_swamp
+[2019.06.09-07.33.44:095][104]LogMaterial: Warning: Material /Game/models/Level/l09_swamp/Foliage/mat_trees_kamysh.mat_trees_kamysh needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2019.06.09-07.33.44:101][104]LogMaterial: Display: Missing cached shader map for material mat_trees_kamysh, compiling. 
+[2019.06.09-07.33.44:176][104]MapCheck: Warning: mat_trees_kamysh Material /Game/models/Level/l09_swamp/Foliage/mat_trees_kamysh.mat_trees_kamysh was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2019.06.09-07.33.44:186][104]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.06.09-07.33.44:433][104]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.09-07.33.44:614][104]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.09-07.33.45:142][104]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 527,828ms to complete.
+[2019.06.09-07.33.46:683][104]LogFileHelpers: Loading map 'l09_swamp' took 4.233
+[2019.06.09-07.33.47:442][106]LogStaticMesh: Allocated 512x238x64 distance field atlas = 14.9Mb, with 55 objects containing 9.1Mb backing data
+[2019.06.09-07.33.48:407][107]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.06.09-07.33.52:888][122]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.06.09-07.33.56:905][139]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.09-07.34.03:013][166]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.09-07.34.06:318][214]LogSlate: Window 'Message Log' being destroyed
+[2019.06.09-07.34.06:344][214]LogSlate: Window 'Message Log' being destroyed
+[2019.06.09-07.34.08:390][241]LogAssetEditorManager: Opening Asset editor for Material /Game/models/Level/l09_swamp/Foliage/mat_trees_kamysh.mat_trees_kamysh
+[2019.06.09-07.34.08:399][241]LogMaterial: Display: Missing cached shader map for material mat_trees_kamysh, compiling. 
+[2019.06.09-07.34.10:574][241]LogMaterial: Display: Missing cached shader map for material mat_trees_kamysh, compiling. 
+[2019.06.09-07.34.10:604][241]LogMaterial: Display: Missing cached shader map for material mat_trees_kamysh, compiling. 
+[2019.06.09-07.34.10:709][241]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.09-07.34.10:913][241]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.06.09-07.34.11:871][243]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.09-07.34.12:344][252]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.06.09-07.34.15:240][290]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.06.09-07.34.18:922][344]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.06.09-07.34.19:658][350]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.06.09-07.34.20:340][353]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.06.09-07.34.21:311][369]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.09-07.34.21:809][371]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.06.09-07.34.22:122][371]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/models/Level/l09_swamp/Foliage/trees_kamysh.trees_kamysh
+[2019.06.09-07.34.22:146][371]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.06.09-07.34.22:768][371]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.06.09-07.34.23:420][372]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.06.09-07.34.23:764][374]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.09-07.34.24:155][378]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.06.09-07.34.25:021][388]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.06.09-07.34.25:367][388]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.06.09-07.34.25:809][395]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.06.09-07.34.26:273][399]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.09-07.34.27:473][421]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.09-07.34.28:311][435]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.06.09-07.34.30:822][477]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.06.09-07.34.31:893][497]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.06.09-07.34.32:657][509]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.09-07.34.32:964][509]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.06.09-07.34.33:333][513]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.06.09-07.34.34:674][538]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.06.09-07.34.35:804][557]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.06.09-07.34.36:814][574]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.09-07.34.37:370][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.34.37:811][588]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.09-07.34.38:805][595]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.09-07.34.38:805][595]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.09-07.34.39:556][603]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.06.09-07.34.41:640][629]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.09-07.34.47:945][823]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.06.09-07.34.50:572][893]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.09-07.34.51:769][908]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.09-07.34.52:184][915]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.09-07.34.52:851][926]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.09-07.34.53:487][935]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.09-07.34.53:622][936]MaterialEditorStats: Base pass shader: 83 instructions
+[2019.06.09-07.34.53:622][936]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2019.06.09-07.34.53:623][936]MaterialEditorStats: Texture samplers: 2/16
+[2019.06.09-07.34.53:623][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.06.09-07.34.53:623][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.34.54:408][940]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.09-07.34.54:688][948]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.09-07.35.00:826][ 44]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.35.05:627][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.35.05:961][ 52]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.35.08:890][113]LogMaterialEditor: Saving and Compiling material mat_trees_kamysh
+[2019.06.09-07.35.08:998][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/Foliage/mat_trees_kamysh" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Foliage/mat_trees_kamysh.uasset" SILENT=true
+[2019.06.09-07.35.09:054][113]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/mat_trees_kamysh46CABCB848858276C951EBA1325CA8F8.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Foliage/mat_trees_kamysh.uasset'
+[2019.06.09-07.35.25:666][641]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.25:694][641]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.35.25:719][641]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.25:770][641]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.09-07.35.25:786][641]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.25:787][641]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.25:787][641]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.35.25:787][641]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.26:220][642]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.06.09-07.35.26:221][642]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.26:221][642]LogMaterial: 	(Node TextureObject) Texture Object> Requires valid texture
+[2019.06.09-07.35.26:225][642]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.35.26:225][642]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.26:472][645]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.35.28:042][665]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.35.32:145][763]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.32:146][763]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.32:146][763]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.32:146][763]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.35.32:146][763]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.32:150][763]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.32:150][763]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.35.32:150][763]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.38:306][929]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.38:307][929]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.38:307][929]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.38:308][929]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.38:336][929]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.09-07.35.38:352][929]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.35.38:447][929]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.38:448][929]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.39:256][940]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.35.44:848][161]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.44:849][161]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.44:849][161]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.44:849][161]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.44:856][161]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.44:858][161]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.44:858][161]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.44:858][161]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.48:458][259]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.48:459][259]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.48:459][259]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.48:459][259]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.48:464][259]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.48:466][259]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.48:466][259]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.48:466][259]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.35.49:199][277]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.35.49:200][277]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.35.49:200][277]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.35.49:200][277]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.36.07:433][785]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.07:434][785]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.07:435][785]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.07:435][785]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailDiffuse'
+[2019.06.09-07.36.07:440][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.36.07:451][785]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.07:452][785]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.07:452][785]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.07:458][785]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.36.07:556][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.36.07:584][785]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.12:219][870]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.36.18:914][ 10]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.36.18:998][ 10]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.19:000][ 10]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.19:000][ 10]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.19:000][ 10]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.19:004][ 10]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.19:004][ 10]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.39:392][820]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.39:393][820]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.39:393][820]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.39:393][820]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.39:434][820]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.36.39:441][820]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2019.06.09-07.36.39:535][821]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.36.42:817][856]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.36.42:817][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.36.42:817][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.36.50:186][ 47]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.50:187][ 47]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.50:187][ 47]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.50:187][ 47]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.50:195][ 47]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2019.06.09-07.36.50:213][ 47]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.36.50:703][ 47]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.36.50:724][ 47]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.50:725][ 47]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.50:725][ 47]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.50:725][ 47]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.58:548][215]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.58:549][215]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.58:549][215]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.58:549][215]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.59:726][253]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.36.59:727][253]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.36.59:727][253]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.36.59:727][253]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.36.59:731][253]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.09-07.37.07:618][462]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.37.07:619][462]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.37.07:619][462]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.37.07:619][462]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.37.07:629][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.09-07.37.07:647][462]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.37.08:671][462]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.37.08:675][462]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.37.08:676][462]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.37.08:676][462]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.37.08:676][462]LogMaterial: 	Function DetailTexturing: Missing function input 'Diffuse'
+[2019.06.09-07.37.10:406][505]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.37.10:408][505]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.37.10:408][505]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.37.10:429][505]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.09-07.37.10:445][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.37.10:462][505]MaterialEditorStats: Error: [SM5] Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.37.11:269][514]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.37.26:071][817]LogEditorFactories: Performing atomic reimport of [H:/Games/S.T.A.L.K.E.R. - Зов Припяти/UEgamedata/textures/detail/detail_grnd_asphalt_bump.tga]
+[2019.06.09-07.37.26:145][817]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 H:/Games/S.T.A.L.K.E.R. - Зов Припяти/UEgamedata/textures/detail/detail_grnd_asphalt_bump.tga)
+[2019.06.09-07.37.26:340][817]LogTexture: Display: Building textures: detail_grnd_asphalt_bump (AutoDXT, 2048X2048)
+[2019.06.09-07.37.38:891][817]LogEditorFactories: -- imported successfully
+[2019.06.09-07.37.38:977][817]LogEditorFactories: Performing atomic reimport of [H:/Games/S.T.A.L.K.E.R. - Зов Припяти/UEgamedata/textures/detail/detail_grnd_asphalt.tga]
+[2019.06.09-07.37.39:029][817]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 H:/Games/S.T.A.L.K.E.R. - Зов Припяти/UEgamedata/textures/detail/detail_grnd_asphalt.tga)
+[2019.06.09-07.37.39:174][817]LogTexture: Display: Building textures: detail_grnd_asphalt (AutoDXT, 2048X2048)
+[2019.06.09-07.37.42:555][817]LogEditorFactories: -- imported successfully
+[2019.06.09-07.37.52:232][ 85]LogSlate: Window 'Save Content' being destroyed
+[2019.06.09-07.37.52:289][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/detail_grnd_asphalt" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/detail_grnd_asphalt.uasset" SILENT=true
+[2019.06.09-07.37.53:616][ 85]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/detail_grnd_asphalt19FEB7DF4A601BCAB5A69A94E34ADBA7.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/detail_grnd_asphalt.uasset'
+[2019.06.09-07.37.53:658][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/detail_grnd_asphalt_bump" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/detail_grnd_asphalt_bump.uasset" SILENT=true
+[2019.06.09-07.37.55:131][ 85]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/detail_grnd_asphalt_bump7F9E75E24C267D906B9115AAAE9CE52F.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/detail_grnd_asphalt_bump.uasset'
+[2019.06.09-07.38.04:010][318]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.04:012][318]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.38.04:012][318]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.38.04:021][318]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.38.04:040][318]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.38.04:137][318]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.04:138][318]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.38.04:138][318]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.38.07:413][389]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.38.08:768][416]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.08:769][416]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.38.08:769][416]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.38.08:807][416]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.38.08:815][416]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.06.09-07.38.08:898][417]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.38.09:853][430]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.38.10:968][450]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.38.12:576][466]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.38.14:289][491]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.14:290][491]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.38.14:290][491]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.38.14:301][491]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.06.09-07.38.14:613][491]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.38.15:291][491]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.15:292][491]LogMaterial: Warning: /Engine/Transient.Material__36 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.09-07.38.15:292][491]LogMaterial: 	Function DetailTexturing: Missing function input 'DetailNormal'
+[2019.06.09-07.38.15:465][493]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.38.19:888][597]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.19:903][597]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.38.19:908][597]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.06.09-07.38.20:887][611]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.38.21:717][624]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.38.23:212][653]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.38.23:931][664]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.38.24:334][667]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.38.24:847][672]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.38.25:511][682]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.38.26:077][689]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.38.26:693][696]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.38.27:557][702]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.38.28:428][708]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.38.29:264][717]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.38.29:503][719]LogMaterialEditor: Saving and Compiling material Material__36
+[2019.06.09-07.38.31:210][719]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.31:327][719]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.31:347][719]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.38.31:438][719]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__36, compiling. 
+[2019.06.09-07.38.36:840][719]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.06.09-07.38.36:840][719]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.06.09-07.38.36:840][719]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.38.36:841][719]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.38.36:858][719]TextureStreamingBuild: Display: Compiling optional shaders took 5.427 seconds.
+[2019.06.09-07.38.41:343][719]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.38.41:468][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/Material__36" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset" SILENT=true
+[2019.06.09-07.38.41:507][719]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/Material__362D9DD30249E2C30059BD0390C7729059.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset'
+[2019.06.09-07.38.41:567][719]MaterialEditorStats: Base pass shader: 81 instructions
+[2019.06.09-07.38.41:567][719]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.38.41:567][719]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.38.41:567][719]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.38.41:567][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.38.44:779][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.39.07:487][691]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.39.14:439][951]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.14:459][951]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.14:558][952]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.39.17:506][ 19]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.39.18:269][ 29]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.39.18:763][ 36]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.39.19:458][ 50]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.39.20:168][ 62]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.39.20:779][ 73]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.39.21:465][ 86]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.39.21:952][ 94]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.39.23:299][129]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.39.24:310][140]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.39.25:021][147]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.39.25:772][155]MaterialEditorStats: Base pass shader: 81 instructions
+[2019.06.09-07.39.25:772][155]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.39.25:772][155]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.39.25:772][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.39.25:772][155]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.39.29:859][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.39.35:356][329]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.35:373][329]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.35:386][329]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.39.36:802][360]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.39.37:166][366]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.38:102][388]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.39.38:694][398]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.39.40:088][428]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.39.41:511][461]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.39.43:220][505]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.39.44:281][530]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.39.45:094][546]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.39.45:501][548]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.39.45:907][553]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.39.46:486][559]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.39.47:487][571]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.39.48:593][583]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.39.49:407][592]MaterialEditorStats: Base pass shader: 70 instructions
+[2019.06.09-07.39.49:408][592]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.39.49:408][592]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.39.49:408][592]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.39.49:408][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.39.52:958][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.39.53:077][684]LogMaterialEditor: Saving and Compiling material Material__36
+[2019.06.09-07.39.54:675][684]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.54:723][684]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.39.54:770][684]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.54:800][684]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.39.54:888][684]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__36, compiling. 
+[2019.06.09-07.39.59:406][684]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.39.59:407][684]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.39.59:465][684]TextureStreamingBuild: Display: Compiling optional shaders took 4.585 seconds.
+[2019.06.09-07.40.03:521][684]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.40.03:626][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/Material__36" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset" SILENT=true
+[2019.06.09-07.40.03:661][684]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/Material__3687C722C14EE16B0AEB147285C4503FD3.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset'
+[2019.06.09-07.40.18:019][244]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.40.26:175][417]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.26:188][417]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.40.28:711][461]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.40.28:756][462]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.40.29:327][465]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.40.29:854][471]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.40.30:435][472]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.40.30:478][473]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.40.31:294][479]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.40.31:785][502]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.40.33:152][555]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.40.33:744][560]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.40.34:464][563]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.34:485][563]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.34:618][565]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.40.35:354][574]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.40.36:107][583]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.40.37:857][625]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.40.38:408][630]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.40.38:974][641]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.40.39:463][647]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.40.40:031][657]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.40.40:516][664]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.40.41:639][692]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.40.43:701][736]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.43:828][739]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.40.45:009][757]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.40.46:496][788]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.47:050][803]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.40.47:875][814]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.40.48:387][817]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.40.49:125][828]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.40.49:586][837]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.40.50:067][847]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.40.50:835][859]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.40.51:546][871]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.40.53:263][913]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.40.53:833][919]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.40.54:350][927]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.40.54:978][939]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.40.55:713][953]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.40.56:408][967]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.40.57:110][979]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.40.58:059][990]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.40.59:162][  7]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.41.00:145][ 30]MaterialEditorStats: Base pass shader: 71 instructions
+[2019.06.09-07.41.00:145][ 30]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.41.00:145][ 30]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.41.00:145][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.41.00:145][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.41.11:269][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.41.11:374][401]LogMaterialEditor: Saving and Compiling material Material__36
+[2019.06.09-07.41.12:969][401]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.41.13:019][401]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.41.13:159][401]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.41.13:187][401]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.41.13:577][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__36, compiling. 
+[2019.06.09-07.41.18:002][401]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.09-07.41.18:002][401]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.09-07.41.18:002][401]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.41.18:003][401]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.41.18:094][401]TextureStreamingBuild: Display: Compiling optional shaders took 4.526 seconds.
+[2019.06.09-07.41.22:616][401]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.41.22:709][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/Material__36" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset" SILENT=true
+[2019.06.09-07.41.22:740][401]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/Material__3620C913494B76C36AD2D8538D77DE00A1.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset'
+[2019.06.09-07.41.52:796][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.42.01:434][840]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.42.01:453][840]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.42.01:504][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.42.03:504][883]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.42.03:543][883]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.42.09:289][ 27]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.42.10:226][ 44]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.42.11:406][ 67]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.42.12:239][ 81]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.42.12:757][ 86]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.42.13:476][ 99]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.42.14:199][112]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.42.14:927][126]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.42.15:602][140]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.42.16:430][158]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.42.17:489][173]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.42.18:360][181]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.42.19:407][203]MaterialEditorStats: Base pass shader: 71 instructions
+[2019.06.09-07.42.19:407][203]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.42.19:407][203]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.42.19:407][203]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.42.19:407][203]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.42.37:563][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.42.47:297][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.42.52:142][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.42.55:258][694]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.42.57:028][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.42.57:134][772]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.09-07.42.57:200][772]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp' with GeneratedClass '/Game/Levels/stalker/l09_swamp.l09_swamp_C' with ClassGeneratedBy '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp'
+[2019.06.09-07.42.57:201][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.09-07.42.57:214][772]PIE: New page: PIE session: l09_swamp (9 черв. 2019 13:42:57)
+[2019.06.09-07.42.57:214][772]LogPlayLevel: Creating play world package: /Game/Levels/stalker/UEDPIE_0_l09_swamp
+[2019.06.09-07.42.57:298][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083883s)
+[2019.06.09-07.42.57:303][772]LogAIModule: Creating AISystem for world l09_swamp
+[2019.06.09-07.42.57:303][772]LogPlayLevel: PIE: World Init took: (0.004970s)
+[2019.06.09-07.42.57:303][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/stalker/l09_swamp.l09_swamp to /Game/Levels/stalker/UEDPIE_0_l09_swamp.l09_swamp (0.089168s)
+[2019.06.09-07.42.57:355][772]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.09-07.42.57:355][772]LogGarbage: Warning:       PIE object: World /Game/Levels/stalker/UEDPIE_0_l09_swamp.l09_swamp
+[2019.06.09-07.42.57:355][772]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.09-07.42.57:379][772]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.09-07.42.57:390][772]LogInit: FAudioDevice initialized.
+[2019.06.09-07.42.57:437][772]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2019.06.09-07.42.57:443][772]LogWorld: Bringing World /Game/Levels/stalker/UEDPIE_0_l09_swamp.l09_swamp up for play (max tick rate 0) at 2019.06.09-10.42.57
+[2019.06.09-07.42.57:445][772]LogWorld: Bringing up level for play took: 0.006187
+[2019.06.09-07.42.57:467][772]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2019.06.09-07.42.57:493][772]PIE: Play in editor start time for /Game/Levels/stalker/UEDPIE_0_l09_swamp 0,73
+[2019.06.09-07.42.57:493][772]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp' with GeneratedClass '/Game/Levels/stalker/l09_swamp.l09_swamp_C' with ClassGeneratedBy '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp'
+[2019.06.09-07.42.58:018][794]LogBlueprintUserMessages: [Character_Super_C_0] Melee
+[2019.06.09-07.43.11:225][695]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp' with GeneratedClass '/Game/Levels/stalker/l09_swamp.l09_swamp_C' with ClassGeneratedBy '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp'
+[2019.06.09-07.43.11:226][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.43.11:272][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.09-07.43.11:272][695]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp' with GeneratedClass '/Game/Levels/stalker/l09_swamp.l09_swamp_C' with ClassGeneratedBy '/Game/Levels/stalker/l09_swamp.l09_swamp:PersistentLevel.l09_swamp'
+[2019.06.09-07.43.11:335][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.09-07.43.11:386][696]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.06.09-07.43.15:820][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.43.24:073][ 66]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:10225).
+[2019.06.09-07.43.28:533][125]LogAssetEditorManager: Opening Asset editor for Material /Game/models/Level/l09_swamp/Material__35.Material__35
+[2019.06.09-07.43.28:539][125]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.28:759][125]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.28:775][125]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.28:791][125]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.43.28:824][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.06.09-07.43.33:528][204]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.33:566][204]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2019.06.09-07.43.36:871][243]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.43.36:871][243]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.43.36:871][243]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.43.36:871][243]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.43.36:871][243]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.43.36:872][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_2 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_2
+[2019.06.09-07.43.36:872][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_2.MaterialExpressionConstant_0"',InputName="Scale"))'
+[2019.06.09-07.43.36:872][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_5
+[2019.06.09-07.43.36:872][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_5.MaterialExpressionTextureSample_1"',InputName="Diffuse",Mask=1,MaskR=1,MaskG=1,MaskB=1))'
+[2019.06.09-07.43.36:872][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_6
+[2019.06.09-07.43.36:872][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureObject'"MaterialGraphNode_6.MaterialExpressionTextureObject_0"',InputName="DetailDiffuse"))'
+[2019.06.09-07.43.36:872][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_9
+[2019.06.09-07.43.36:872][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_9.MaterialExpressionConstant_2"',InputName="DiffuseIntensity"))'
+[2019.06.09-07.43.36:873][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_4
+[2019.06.09-07.43.36:873][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureObject'"MaterialGraphNode_4.MaterialExpressionTextureObject_2"',InputName="DetailNormal"))'
+[2019.06.09-07.43.36:873][243]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.Material__36:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.Material__35:MaterialGraph_0.MaterialGraphNode_7
+[2019.06.09-07.43.36:873][243]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionConstant'"MaterialGraphNode_7.MaterialExpressionConstant_3"',InputName="NormalIntensity"))'
+[2019.06.09-07.43.36:904][243]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.36:937][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.43.36:946][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.09-07.43.36:954][243]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.06.09-07.43.39:130][279]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.43.40:795][300]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.43.44:240][332]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.43.44:240][332]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.43.44:240][332]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.43.44:240][332]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.43.44:240][332]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.43.44:241][332]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.43.45:102][346]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.43.45:215][346]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.45:237][346]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.43.45:517][346]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.43.45:520][346]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2019.06.09-07.43.46:080][346]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.43.46:084][346]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2019.06.09-07.43.46:456][346]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.43.47:470][355]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.43.48:615][372]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.43.48:768][372]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.49:964][390]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.43.51:411][409]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.43.51:715][413]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.09-07.43.54:874][414]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.06.09-07.43.55:891][429]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.09-07.43.55:893][429]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.06.09-07.43.58:150][480]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.06.09-07.43.58:826][481]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.06.09-07.43.58:826][481]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.06.09-07.44.00:522][505]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.09-07.44.00:833][505]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.44.01:393][505]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.09-07.44.02:047][505]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.09-07.44.04:121][505]LogSlate: Window 'Message' being destroyed
+[2019.06.09-07.44.05:781][505]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.44.05:826][505]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.44.05:828][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.44.05:873][505]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.44.05:893][505]LogMaterial: Display: Missing cached shader map for material Material__36, compiling. 
+[2019.06.09-07.44.05:985][505]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__36, compiling. 
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.09-07.44.10:544][505]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.09-07.44.10:545][505]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.09-07.44.10:553][505]TextureStreamingBuild: Display: Compiling optional shaders took 4.575 seconds.
+[2019.06.09-07.44.14:721][505]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.09-07.44.14:862][505]MaterialEditorStats: Base pass shader: 71 instructions
+[2019.06.09-07.44.14:862][505]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.06.09-07.44.14:862][505]MaterialEditorStats: Texture samplers: 4/16
+[2019.06.09-07.44.14:862][505]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2019.06.09-07.44.14:862][505]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.06.09-07.44.18:044][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.44.18:160][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/stalker/l09_swamp' took 0.071
+[2019.06.09-07.44.18:164][591]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Level/l09_swamp/Material__36] ([1] browsable assets)...
+[2019.06.09-07.44.18:199][591]OBJ SavePackage:     Rendered thumbnail for [Material /Game/models/Level/l09_swamp/Material__36.Material__36]
+[2019.06.09-07.44.18:199][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Level/l09_swamp/Material__36]
+[2019.06.09-07.44.18:231][591]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/Material__36_Auto157DCFD194773823BB363999D66969BB7.tmp' to '../../../../../Norilsk_Weapons/Saved/Autosaves/Game/models/Level/l09_swamp/Material__36_Auto1.uasset'
+[2019.06.09-07.44.18:248][591]LogFileHelpers: Auto-saving content packages took 0.086
+[2019.06.09-07.44.20:626][675]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.44.34:561][151]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.44.42:711][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.09-07.44.44:348][251]LogSlate: Window 'Save Content' being destroyed
+[2019.06.09-07.44.44:373][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.44.44:384][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Level/l09_swamp/Material__36" FILE="../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset" SILENT=true
+[2019.06.09-07.44.44:402][251]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/Material__36A43A05674DDAA1825B3385AADE05E1AA.tmp' to '../../../../../Norilsk_Weapons/Content/models/Level/l09_swamp/Material__36.uasset'
+[2019.06.09-07.44.58:666][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.45.26:161][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.45.36:677][261]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Games\S.T.A.L.K.E.R. - Зов Припяти\UEgamedata\textures\detail\detail_grnd_cracked.tga)
+[2019.06.09-07.45.36:712][261]LogTexture: Display: Building textures: detail_grnd_cracked (AutoDXT, 1024X1024)
+[2019.06.09-07.45.37:705][261]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 H:\Games\S.T.A.L.K.E.R. - Зов Припяти\UEgamedata\textures\detail\detail_grnd_cracked_bump.tga)
+[2019.06.09-07.45.37:737][261]LogTexture: Display: Building textures: detail_grnd_cracked_bump (AutoDXT, 1024X1024)
+[2019.06.09-07.45.40:860][261]LogFileManager: Error: Error writing to file: C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/temp.F4B0AAD7442F784B07C47AA403B64D64 (Недостаточно места на диске.)
+[2019.06.09-07.45.40:860][261]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/temp.F4B0AAD7442F784B07C47AA403B64D64!
+[2019.06.09-07.45.40:860][261]LogFileManager: Error: Error writing to file: C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/temp.08344C764A813AE21EDD66811B83CF80 (Недостаточно места на диске.)
+[2019.06.09-07.45.40:860][261]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/3/temp.08344C764A813AE21EDD66811B83CF80!
+[2019.06.09-07.45.40:860][261]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_9C47707A4CDA058B8982DAA043B13__26205B3A2BCDC3831F50163EBAB817516A270E3A.
+[2019.06.09-07.45.40:902][261]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.09-07.45.54:989][435]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 
+[2019.06.09-07.45.55:011][435]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error writing to file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error writing to file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error writing to file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error writing to file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error writing to file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error flushing file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error flushing file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error flushing file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogFileManager: Error: Error flushing file: C:/Windows/Temp/UnrealShaderWorkingDir/E72385FE43EC54ADA593CFA158129BE9/09327D4A449F78CCF0F7EE480CC69468E (Недостаточно места на диске.)
+[2019.06.09-07.45.55:011][435]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2019.06.09-07.45.55:021][435]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2019.06.09-07.45.55:068][435]LogMaterial: Display: Missing cached shader map for material Material__35, compiling. 

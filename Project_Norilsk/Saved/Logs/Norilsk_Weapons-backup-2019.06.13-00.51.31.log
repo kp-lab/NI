@@ -1,0 +1,1627 @@
+﻿Log file open, 06/11/19 22:13:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Norilsk_Weapons
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.170818
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.114s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 7 (Service Pack 1), CPU: Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz, GPU: NVIDIA GeForce GTX 560 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: H:/Workbench/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.06.11-19.13.26:503][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.11-19.13.26:503][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.11-19.13.26:519][  0]LogHAL: Display: Platform has ~ 8 GB [8589139968 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.11-19.13.26:519][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.06.11-19.13.26:519][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.11-19.13.26:519][  0]LogInit: Computer: ELBER-ПК
+[2019.06.11-19.13.26:519][  0]LogInit: User: Elber
+[2019.06.11-19.13.26:519][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.06.11-19.13.26:520][  0]LogInit: High frequency timer resolution =2.539101 MHz
+[2019.06.11-19.13.26:520][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.06.11-19.13.26:520][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.11-19.13.26:520][  0]LogMemory: Process Physical Memory: 100.83 MB used, 100.83 MB peak
+[2019.06.11-19.13.26:520][  0]LogMemory: Process Virtual Memory: 101.64 MB used, 101.64 MB peak
+[2019.06.11-19.13.26:520][  0]LogMemory: Physical Memory: 2678.10 MB used,  5513.14 MB free, 8191.24 MB total
+[2019.06.11-19.13.26:520][  0]LogMemory: Virtual Memory: 477.02 MB used,  5513.14 MB free, 8388608.00 MB total
+[2019.06.11-19.13.26:559][  0]LogInit: Using OS detected language (uk-UA).
+[2019.06.11-19.13.26:559][  0]LogInit: Using OS detected locale (uk-UA).
+[2019.06.11-19.13.26:560][  0]LogTextLocalizationManager: No localization for 'uk-UA' exists, so 'en' will be used for the language.
+[2019.06.11-19.13.27:241][  0]LogStreaming: Display: Took  0.682s to InitEngineTextLocalization.
+[2019.06.11-19.13.27:242][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2019.06.11-19.13.27:242][  0]LogWindows: File 'shcore.dll' does not exist
+[2019.06.11-19.13.27:242][  0]LogInit: Setting process to DPI aware
+[2019.06.11-19.13.27:302][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.11-19.13.27:302][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.11-19.13.27:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.11-19.13.27:676][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.11-19.13.27:732][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 560 Ti' (Feature Level 11_0)
+[2019.06.11-19.13.27:733][  0]LogD3D11RHI:       969/0/3071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.11-19.13.27:733][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.11-19.13.27:745][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.11-19.13.27:745][  0]LogD3D11RHI:     GPU DeviceId: 0x1200 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.11-19.13.27:745][  0]LogWindows: EnumDisplayDevices:
+[2019.06.11-19.13.27:745][  0]LogWindows:    0. 'NVIDIA GeForce GTX 560 Ti' (P:1 D:1)
+[2019.06.11-19.13.27:746][  0]LogWindows:    1. 'NVIDIA GeForce GTX 560 Ti' (P:0 D:0)
+[2019.06.11-19.13.27:746][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2019.06.11-19.13.27:746][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2019.06.11-19.13.27:747][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2019.06.11-19.13.27:747][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2019.06.11-19.13.27:747][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 560 Ti
+[2019.06.11-19.13.27:747][  0]LogD3D11RHI:   Driver Version: 391.35 (internal:23.21.13.9135, unified:391.35)
+[2019.06.11-19.13.27:747][  0]LogD3D11RHI:      Driver Date: 3-23-2018
+[2019.06.11-19.13.27:747][  0]LogRHI: Texture pool is 678 MB (70% of 969 MB)
+[2019.06.11-19.13.27:769][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2019.06.11-19.13.27:769][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.11-19.13.27:788][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.06.11-19.13.27:791][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../Norilsk_Weapons/Intermediate/Shaders/WorkingDirectory/3312/).
+[2019.06.11-19.13.27:791][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Windows/Temp/UnrealShaderWorkingDir/3EB7BABC4E325844C537A89DB7CEE061/'.
+[2019.06.11-19.13.28:821][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.11-19.13.28:850][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.11-19.13.28:879][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.11-19.13.28:907][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.11-19.13.28:937][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.11-19.13.28:966][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.11-19.13.28:995][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.11-19.13.29:025][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.11-19.13.29:039][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.11-19.13.29:219][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:220][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.11-19.13.29:222][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.11-19.13.29:309][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.11-19.13.29:309][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.11-19.13.29:360][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.11-19.13.29:360][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.11-19.13.29:387][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.11-19.13.29:420][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.11-19.13.29:446][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.11-19.13.29:474][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.11-19.13.29:494][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.11-19.13.29:494][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.11-19.13.29:597][  0]LogXGEController: Cleaning working directory: C:/Windows/Temp/UnrealXGEWorkingDir/
+[2019.06.11-19.13.29:597][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.11-19.13.29:597][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.11-19.13.29:597][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.11-19.13.31:794][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: Loaded boot cache 0.23s 83MB C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Norilsk_Weapons/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Norilsk_Weapons/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.11-19.13.32:025][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.11-19.13.32:049][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.11-19.13.32:062][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Elber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.11-19.13.32:062][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.11-19.13.32:062][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.11-19.13.32:112][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.11-19.13.32:115][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.11-19.13.32:116][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.11-19.13.32:255][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2019.06.11-19.13.33:101][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.11-19.13.33:525][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.11-19.13.33:533][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.11-19.13.33:533][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.11-19.13.33:533][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.11-19.13.33:533][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.11-19.13.33:608][  0]LogNetVersion: Norilsk_Weapons 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 942580200)
+[2019.06.11-19.13.35:167][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.100761 seconds
+[2019.06.11-19.13.35:185][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.06.11-19.13.35:185][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.06.11-19.13.35:185][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.11-19.13.36:761][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.11-19.13.36:776][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.11-19.13.37:015][  0]SourceControl: Source control is disabled
+[2019.06.11-19.13.37:015][  0]SourceControl: Source control is disabled
+[2019.06.11-19.13.37:016][  0]SourceControl: Source control is disabled
+[2019.06.11-19.13.37:018][  0]SourceControl: Source control is disabled
+[2019.06.11-19.13.37:245][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.11-19.13.37:345][  0]LogOcInput: OculusInput pre-init called
+[2019.06.11-19.13.37:450][  0]LogEngine: Initializing Engine...
+[2019.06.11-19.13.37:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.11-19.13.37:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.11-19.13.37:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.11-19.13.37:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.11-19.13.37:454][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.11-19.13.37:882][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.11-19.13.37:912][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.11-19.13.37:947][  0]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-19.13.37:958][  0]LogInit: FAudioDevice initialized.
+[2019.06.11-19.13.37:959][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.11-19.13.38:495][  0]LogDerivedDataCache: Saved boot cache 0.54s 83MB C:/Users/Elber/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.06.11-19.13.38:509][  0]LogInit: Texture streaming: Enabled
+[2019.06.11-19.13.38:549][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.11-19.13.38:570][  0]LogInit: Transaction tracking system initialized
+[2019.06.11-19.13.38:612][  0]BlueprintLog: New page: Editor Load
+[2019.06.11-19.13.38:759][  0]LocalizationService: Localization service is disabled
+[2019.06.11-19.13.39:317][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.11-19.13.39:317][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.11-19.13.39:317][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.11-19.13.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.11-19.13.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.11-19.13.39:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.11-19.13.39:318][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.11-19.13.39:577][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/' took 0.06s
+[2019.06.11-19.13.39:577][  0]SourceControl: Source control is disabled
+[2019.06.11-19.13.39:577][  0]Cmd: MAP LOAD FILE="../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.11-19.13.39:579][  0]LightingResults: New page: Lighting Build
+[2019.06.11-19.13.39:584][  0]MapCheck: New page: Map Check
+[2019.06.11-19.13.39:584][  0]LightingResults: New page: Lighting Build
+[2019.06.11-19.13.44:247][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.11-19.13.44:288][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.11-19.13.44:365][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.11-19.13.44:529][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 164,453ms to complete.
+[2019.06.11-19.13.44:529][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.952
+[2019.06.11-19.13.44:638][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.13.44:655][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.13.44:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.13.44:687][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.13.44:698][  0]LogCollectionManager: Loaded 0 collections in 0.003645 seconds
+[2019.06.11-19.13.44:732][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Saved/Collections/' took 0.01s
+[2019.06.11-19.13.44:732][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/Developers/Elber/Collections/' took 0.00s
+[2019.06.11-19.13.44:732][  0]LogFileCache: Scanning file cache for directory 'H:/Workbench/Norilsk_Weapons/Content/Collections/' took 0.01s
+[2019.06.11-19.13.44:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.11-19.13.44:753][  0]LogContentBrowser: Native class hierarchy populated in 0.0207 seconds. Added 2572 classes and 603 folders.
+[2019.06.11-19.13.44:764][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.11-19.13.44:854][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.11-19.13.44:864][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.11-19.13.44:890][  0]LogSlate: Took 0.000497 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.11-19.13.44:894][  0]LogSlate: Took 0.000566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.11-19.13.44:903][  0]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.11-19.13.45:061][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.06.11-19.13.45:787][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.11-19.13.45:788][  0]LogLoad: (Engine Initialization) Total time: 21.73 seconds
+[2019.06.11-19.13.45:788][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.11-19.13.45:852][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.11-19.13.45:893][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.11-19.13.47:183][  7]LogAssetRegistry: Asset discovery search completed in 14.9490 seconds
+[2019.06.11-19.13.47:187][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.11-19.13.47:187][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000134 seconds (updated 0 objects)
+[2019.06.11-19.14.14:914][267]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-19.14.16:079][311]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-19.14.16:080][311]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-19.14.16:094][311]PIE: New page: SIE session: ThirdPersonExampleMap (12 черв. 2019 01:14:16)
+[2019.06.11-19.14.16:095][311]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.11-19.14.16:163][311]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068005s)
+[2019.06.11-19.14.16:164][311]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.11-19.14.16:165][311]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2019.06.11-19.14.16:165][311]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.070335s)
+[2019.06.11-19.14.16:218][311]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-19.14.16:219][311]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-19.14.16:219][311]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-19.14.16:276][311]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-19.14.16:564][311]LogInit: FAudioDevice initialized.
+[2019.06.11-19.14.16:565][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-19.14.16:645][311]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2019.06.11-19.14.16:659][311]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.11-22.14.16
+[2019.06.11-19.14.16:661][311]LogWorld: Bringing up level for play took: 0.014058
+[2019.06.11-19.14.16:684][311]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2019.06.11-19.14.16:686][311]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,765
+[2019.06.11-19.14.16:752][311]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-19.14.29:764][939]LogRenderer: Reallocating scene render targets to support 1420x712 Format 10 NumSamples 1 (Frame:671).
+[2019.06.11-19.14.29:858][940]LogRenderer: Reallocating scene render targets to support 1920x1036 Format 10 NumSamples 1 (Frame:673).
+[2019.06.11-19.14.29:858][940]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-19.14.48:240][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-19.14.50:193][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-19.14.50:352][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-19.14.50:353][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.14.50:407][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-19.14.50:407][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-19.14.50:473][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-19.14.50:502][922]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.06.11-21.21.46:851][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-21.21.46:942][592]LogTemp: Repeating last play command: Simulate
+[2019.06.11-21.21.47:012][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.21.47:012][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-21.21.47:012][592]PIE: New page: SIE session: ThirdPersonExampleMap (12 черв. 2019 03:21:47)
+[2019.06.11-21.21.47:013][592]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.11-21.21.47:052][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038816s)
+[2019.06.11-21.21.47:053][592]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.11-21.21.47:054][592]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2019.06.11-21.21.47:054][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040797s)
+[2019.06.11-21.21.47:108][592]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.21.47:108][592]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.21.47:108][592]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.21.47:128][592]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-21.21.47:138][592]LogInit: FAudioDevice initialized.
+[2019.06.11-21.21.47:172][592]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2019.06.11-21.21.47:178][592]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.12-00.21.47
+[2019.06.11-21.21.47:180][592]LogWorld: Bringing up level for play took: 0.006659
+[2019.06.11-21.21.47:193][592]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1,156
+[2019.06.11-21.21.47:198][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.21.50:273][668]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.21.50:274][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-21.21.50:332][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-21.21.50:332][668]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.21.50:393][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-21.21.50:425][669]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.06.11-21.22.50:678][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.22.50:679][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-21.22.50:679][362]PIE: New page: PIE session: ThirdPersonExampleMap (12 черв. 2019 03:22:50)
+[2019.06.11-21.22.50:680][362]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.11-21.22.50:717][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037202s)
+[2019.06.11-21.22.50:718][362]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.11-21.22.50:719][362]LogPlayLevel: PIE: World Init took: (0.001875s)
+[2019.06.11-21.22.50:720][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.039926s)
+[2019.06.11-21.22.50:770][362]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.22.50:770][362]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.22.50:770][362]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.22.50:791][362]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-21.22.50:801][362]LogInit: FAudioDevice initialized.
+[2019.06.11-21.22.50:816][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-21.22.50:857][362]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2019.06.11-21.22.50:863][362]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.12-00.22.50
+[2019.06.11-21.22.50:864][362]LogWorld: Bringing up level for play took: 0.006904
+[2019.06.11-21.22.50:889][362]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,851
+[2019.06.11-21.22.50:890][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.22.51:677][390]LogBlueprintUserMessages: [Character_Super_C_0] Melee
+[2019.06.11-21.23.14:242][798]LogBlueprintUserMessages: [Character_Super_C_0] Hello
+[2019.06.11-21.23.14:333][800]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.23.14:333][800]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.23.14:333][800]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.23.14:335][800]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.23.14:335][800]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.23.14:335][800]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.23.15:893][897]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.23.15:894][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:895][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:895][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:895][897]LogBlueprintUserMessages: [Character_Super_C_0] 228.622437
+[2019.06.11-21.23.15:895][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:895][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:896][897]LogBlueprintUserMessages: [Character_Super_C_0] 228.385559
+[2019.06.11-21.23.15:896][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:896][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:896][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:896][897]LogBlueprintUserMessages: [Character_Super_C_0] 234.96788
+[2019.06.11-21.23.15:897][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:897][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:897][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:897][897]LogBlueprintUserMessages: [Character_Super_C_0] 232.837738
+[2019.06.11-21.23.15:897][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:897][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:898][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:898][897]LogBlueprintUserMessages: [Character_Super_C_0] 231.238785
+[2019.06.11-21.23.15:898][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:898][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:898][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:898][897]LogBlueprintUserMessages: [Character_Super_C_0] 228.982147
+[2019.06.11-21.23.15:899][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:899][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:899][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:899][897]LogBlueprintUserMessages: [Character_Super_C_0] 233.003998
+[2019.06.11-21.23.15:899][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:899][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:900][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:900][897]LogBlueprintUserMessages: [Character_Super_C_0] 232.207352
+[2019.06.11-21.23.15:900][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:900][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:900][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:901][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:901][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:901][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:901][897]LogBlueprintUserMessages: [Character_Super_C_0] 233.428329
+[2019.06.11-21.23.15:901][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:901][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:902][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:902][897]LogBlueprintUserMessages: [Character_Super_C_0] 233.428467
+[2019.06.11-21.23.15:902][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:902][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:902][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:903][897]LogBlueprintUserMessages: [Character_Super_C_0] 234.125336
+[2019.06.11-21.23.15:903][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:903][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:903][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:903][897]LogBlueprintUserMessages: [Character_Super_C_0] 233.074188
+[2019.06.11-21.23.15:903][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:904][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:904][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:904][897]LogBlueprintUserMessages: [Character_Super_C_0] 228.980484
+[2019.06.11-21.23.15:904][897]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.15:904][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:904][897]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.15:905][897]LogBlueprintUserMessages: [Character_Super_C_0] 228.939178
+[2019.06.11-21.23.18:475][958]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.23.18:475][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:475][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:476][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:476][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:476][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:476][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:476][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:476][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:477][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:477][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:477][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:477][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:477][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:478][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:478][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:478][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:478][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:479][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:479][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:479][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:479][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:479][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:480][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:480][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:480][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:480][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:480][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:481][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:481][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:481][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:481][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:481][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:481][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:482][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:482][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:482][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:482][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:482][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:482][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:483][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:483][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:483][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:483][958]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.18:483][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.18:483][958]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.22:992][188]LogBlueprintUserMessages: [Character_Super_C_0] 0
+[2019.06.11-21.23.25:802][369]LogBlueprintUserMessages: [Character_Super_C_0] Hello
+[2019.06.11-21.23.26:690][423]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.26:691][423]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.26:691][423]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.26:799][427]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.26:799][427]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.26:799][427]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.26:955][432]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.26:956][432]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.26:956][432]LogBlueprintUserMessages: [Character_Super_C_0] 119.469589
+[2019.06.11-21.23.36:794][ 63]LogBlueprintUserMessages: [Character_Super_C_0] 6
+[2019.06.11-21.23.37:163][ 88]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.23.37:163][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:163][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 116.040787
+[2019.06.11-21.23.37:164][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:164][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 116.977676
+[2019.06.11-21.23.37:164][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:164][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 120.765213
+[2019.06.11-21.23.37:164][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:165][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:165][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 120.358032
+[2019.06.11-21.23.37:165][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:165][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.37:165][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:165][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 107.920105
+[2019.06.11-21.23.37:165][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:165][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 123.036888
+[2019.06.11-21.23.37:166][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:166][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:166][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.37:166][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:166][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 122.998871
+[2019.06.11-21.23.37:166][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:167][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 117.68367
+[2019.06.11-21.23.37:167][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:167][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 117.112427
+[2019.06.11-21.23.37:167][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:167][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 116.029327
+[2019.06.11-21.23.37:167][ 88]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.37:167][ 88]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.38:709][171]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.38:710][171]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.38:710][171]LogBlueprintUserMessages: [Character_Super_C_0] 116.353973
+[2019.06.11-21.23.38:803][175]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.38:804][175]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.38:804][175]LogBlueprintUserMessages: [Character_Super_C_0] 116.646378
+[2019.06.11-21.23.38:909][180]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.38:910][180]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.38:910][180]LogBlueprintUserMessages: [Character_Super_C_0] 117.307129
+[2019.06.11-21.23.39:024][185]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:025][185]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:025][185]LogBlueprintUserMessages: [Character_Super_C_0] 117.689285
+[2019.06.11-21.23.39:135][190]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:135][190]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:135][190]LogBlueprintUserMessages: [Character_Super_C_0] 121.486923
+[2019.06.11-21.23.39:247][195]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:248][195]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:248][195]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.39:693][215]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:694][215]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:694][215]LogBlueprintUserMessages: [Character_Super_C_0] 53.898788
+[2019.06.11-21.23.39:778][219]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:778][219]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:779][219]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.23.39:888][224]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.39:888][224]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.39:889][224]LogBlueprintUserMessages: [Character_Super_C_0] 53.896347
+[2019.06.11-21.23.40:008][229]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:009][229]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:009][229]LogBlueprintUserMessages: [Character_Super_C_0] 50.984497
+[2019.06.11-21.23.40:127][234]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:128][234]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:128][234]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.23.40:246][239]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:247][239]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:247][239]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.23.40:796][264]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:796][264]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:796][264]LogBlueprintUserMessages: [Character_Super_C_0] 202.783752
+[2019.06.11-21.23.40:886][268]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:886][268]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:887][268]LogBlueprintUserMessages: [Character_Super_C_0] 205.625946
+[2019.06.11-21.23.40:995][273]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.40:997][273]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.40:997][273]LogBlueprintUserMessages: [Character_Super_C_0] 206.867279
+[2019.06.11-21.23.41:113][278]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.41:114][278]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.41:114][278]LogBlueprintUserMessages: [Character_Super_C_0] 203.11319
+[2019.06.11-21.23.41:230][283]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.41:231][283]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.41:231][283]LogBlueprintUserMessages: [Character_Super_C_0] 206.884476
+[2019.06.11-21.23.41:348][288]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.41:348][288]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.41:349][288]LogBlueprintUserMessages: [Character_Super_C_0] 209.025604
+[2019.06.11-21.23.41:470][293]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.41:471][293]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.41:471][293]LogBlueprintUserMessages: [Character_Super_C_0] 217.772522
+[2019.06.11-21.23.44:384][445]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.44:385][445]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.44:385][445]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:385][445]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:471][449]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.44:472][449]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.44:472][449]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:473][449]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:718][460]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.44:718][460]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.44:718][460]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:719][460]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:814][464]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.23.44:815][464]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.23.44:815][464]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.23.44:816][464]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.09:847][ 22]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.09:848][ 22]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.09:848][ 22]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.09:947][ 27]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.09:948][ 27]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.09:948][ 27]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.10:063][ 32]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.10:064][ 32]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.10:064][ 32]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.10:168][ 36]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.10:168][ 36]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.10:168][ 36]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.10:273][ 40]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.10:274][ 40]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.10:276][ 40]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.10:393][ 45]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.10:394][ 45]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.10:394][ 45]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.10:511][ 50]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.10:512][ 50]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.10:512][ 50]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:032][ 72]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:033][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:033][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:114][ 76]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:114][ 76]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:115][ 76]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:224][ 81]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:224][ 81]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:225][ 81]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:332][ 86]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:333][ 86]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:333][ 86]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:447][ 91]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:448][ 91]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:448][ 91]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:560][ 96]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:561][ 96]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:562][ 96]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:665][101]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:665][101]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:665][101]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.11:789][106]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.11:789][106]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.11:789][106]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.15:439][296]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.24.15:439][296]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.24.15:439][296]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.24.15:442][296]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.24.15:442][296]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.24.15:442][296]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.24.17:841][439]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.17:842][439]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.17:842][439]LogBlueprintUserMessages: [Character_Super_C_0] 113.086105
+[2019.06.11-21.24.17:927][443]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.17:928][443]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.17:928][443]LogBlueprintUserMessages: [Character_Super_C_0] 112.738571
+[2019.06.11-21.24.18:037][448]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.18:038][448]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.18:038][448]LogBlueprintUserMessages: [Character_Super_C_0] 111.114517
+[2019.06.11-21.24.18:152][453]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.18:152][453]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.18:152][453]LogBlueprintUserMessages: [Character_Super_C_0] 109.297089
+[2019.06.11-21.24.18:267][458]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.18:268][458]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.18:268][458]LogBlueprintUserMessages: [Character_Super_C_0] 105.018188
+[2019.06.11-21.24.18:699][477]LogBlueprintUserMessages: [Character_Super_C_0] anim_ak74_fire_Montage
+[2019.06.11-21.24.18:699][477]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.18:699][477]LogBlueprintUserMessages: [Character_Super_C_0] 106.827591
+[2019.06.11-21.24.21:057][602]LogBlueprintUserMessages: [Character_Super_C_0] Hello
+[2019.06.11-21.24.21:058][602]LogBlueprintUserMessages: [Character_Super_C_0] dropper
+[2019.06.11-21.24.22:198][665]LogBlueprintUserMessages: [Character_Super_C_0] 0
+[2019.06.11-21.24.24:177][793]LogBlueprintUserMessages: [Character_Super_C_0] Hello
+[2019.06.11-21.24.25:806][898]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.25:806][898]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.25:807][898]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.26:320][926]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.26:320][926]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.26:320][926]LogBlueprintUserMessages: [Character_Super_C_0] 182.693054
+[2019.06.11-21.24.26:960][961]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.26:961][961]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.26:961][961]LogBlueprintUserMessages: [Character_Super_C_0] 124.346672
+[2019.06.11-21.24.27:824][  8]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.27:825][  8]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.27:825][  8]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.24.28:077][ 21]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.28:078][ 21]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.28:078][ 21]LogBlueprintUserMessages: [Character_Super_C_0] 97.062195
+[2019.06.11-21.24.28:529][ 45]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.28:529][ 45]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.28:529][ 45]LogBlueprintUserMessages: [Character_Super_C_0] 105.877533
+[2019.06.11-21.24.31:442][202]LogBlueprintUserMessages: [Character_Super_C_0] 6
+[2019.06.11-21.24.32:266][253]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.32:266][253]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.32:266][253]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.32:266][253]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.32:742][281]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.32:743][281]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.32:743][281]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.33:039][297]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.33:040][297]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.33:040][297]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.33:310][311]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.33:310][311]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.33:310][311]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.33:509][321]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.33:509][321]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.33:509][321]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.33:731][332]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.33:732][332]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.33:732][332]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.33:914][341]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.33:914][341]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.33:914][341]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.34:105][350]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.24.34:106][350]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.34:106][350]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:138][455]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.24.36:138][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:138][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:138][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:139][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:139][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:139][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:139][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:139][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:139][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:139][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:140][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:140][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:140][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:140][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:140][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:140][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:140][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:140][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:141][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:141][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:141][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:141][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:141][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:141][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:142][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:142][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:142][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:142][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.36:142][455]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.36:142][455]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:036][739]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.24.41:036][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:036][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:037][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:037][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:037][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:037][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:037][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:037][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:038][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:038][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:038][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:038][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:038][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:038][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:038][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:038][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:039][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:039][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:039][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:039][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:039][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:040][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:040][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:040][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:040][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:040][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:040][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:040][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.41:041][739]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.41:041][739]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:908][841]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.24.42:908][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:909][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:909][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:909][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:909][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:909][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:909][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:910][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:910][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:910][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:910][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:910][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:910][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:910][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:911][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:911][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:911][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:911][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:911][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:911][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:912][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:912][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:912][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:912][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:912][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:912][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:912][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:912][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.24.42:913][841]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.24.42:913][841]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.01:657][  3]LogBlueprintUserMessages: [Character_Super_C_0] 8
+[2019.06.11-21.25.15:098][872]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.15:099][872]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.15:099][872]LogBlueprintUserMessages: [Character_Super_C_0] 103.306305
+[2019.06.11-21.25.15:469][893]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.15:470][893]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.15:470][893]LogBlueprintUserMessages: [Character_Super_C_0] 107.98912
+[2019.06.11-21.25.15:730][908]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.15:731][908]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.15:731][908]LogBlueprintUserMessages: [Character_Super_C_0] 108.290558
+[2019.06.11-21.25.16:024][924]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.16:024][924]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.16:024][924]LogBlueprintUserMessages: [Character_Super_C_0] 102.100128
+[2019.06.11-21.25.16:272][937]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.16:272][937]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.16:273][937]LogBlueprintUserMessages: [Character_Super_C_0] 86.122452
+[2019.06.11-21.25.16:549][949]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.25.16:549][949]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.25.16:549][949]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.25.16:552][949]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.25.16:552][949]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.25.16:552][949]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.25.16:604][951]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.16:604][951]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.16:604][951]LogBlueprintUserMessages: [Character_Super_C_0] 59.064209
+[2019.06.11-21.25.32:241][932]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.25.32:241][932]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.32:241][932]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:522][ 72]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.25.34:522][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:523][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:523][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:523][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:523][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:523][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:523][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:523][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:524][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:524][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:524][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:524][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:524][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:524][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 182.677994
+[2019.06.11-21.25.34:524][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:525][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:525][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:525][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:525][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:525][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:525][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:525][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:526][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:526][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:526][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:526][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:526][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:526][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.34:526][ 72]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.34:526][ 72]LogBlueprintUserMessages: [Character_Super_C_0] 250.0
+[2019.06.11-21.25.56:965][487]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.25.56:966][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:966][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:966][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:966][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:967][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:967][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:967][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:968][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:968][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:968][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:968][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:968][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:968][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:968][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:969][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:969][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:969][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:969][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:969][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:969][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.56:970][487]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.25.56:970][487]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.25.59:697][643]LogBlueprintUserMessages: [Character_Super_C_0] 6
+[2019.06.11-21.26.02:019][787]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.02:020][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:020][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:020][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:020][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:020][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:020][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:021][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:021][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:021][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:021][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:021][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:021][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:022][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:022][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:022][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:022][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:022][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:022][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:023][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:023][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:023][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:023][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:023][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:023][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:023][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:024][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:024][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.02:024][787]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.02:024][787]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:454][922]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.04:454][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:454][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:455][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:455][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:455][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:455][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:455][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:455][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:456][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:456][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:456][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:456][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:456][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:456][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:456][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:457][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:457][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:457][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:457][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:457][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:457][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:457][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:458][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:458][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:458][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:458][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:458][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:458][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.04:459][922]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.04:459][922]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:705][ 44]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.06:706][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:706][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:706][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:706][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:706][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:707][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:707][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:707][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:707][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:707][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:707][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:707][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:708][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:708][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:708][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:708][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:708][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:708][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:708][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:709][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:709][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:709][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:709][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:709][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:709][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:710][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:710][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:710][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.06:710][ 44]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.06:710][ 44]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:649][145]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.08:649][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:649][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:649][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:650][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:650][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:650][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:650][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:650][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:650][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:650][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:651][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:651][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:651][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:651][145]LogBlueprintUserMessages: [Character_Super_C_0] 216.313049
+[2019.06.11-21.26.08:651][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:651][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:651][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:652][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:652][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:652][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:652][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:652][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:652][145]LogBlueprintUserMessages: [Character_Super_C_0] 214.915192
+[2019.06.11-21.26.08:653][145]LogBlueprintUserMessages: [Character_Super_C_0] 155.193085
+[2019.06.11-21.26.08:653][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:653][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:653][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:653][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:654][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:654][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.08:654][145]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.08:654][145]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:636][249]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.10:637][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:637][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:637][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:637][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:638][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:638][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:638][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:638][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:638][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:639][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:639][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:639][249]LogBlueprintUserMessages: [Character_Super_C_0] 216.95607
+[2019.06.11-21.26.10:639][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:639][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:639][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:640][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:640][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:640][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:640][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:640][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:640][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:640][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:640][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:641][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:641][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:641][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:641][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:641][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:641][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.10:642][249]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.10:642][249]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:221][390]LogBlueprintUserMessages: [Character_Super_C_0] anim_spas_fire0_Montage
+[2019.06.11-21.26.13:222][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:222][390]LogBlueprintUserMessages: [Character_Super_C_0] 215.221268
+[2019.06.11-21.26.13:222][390]LogBlueprintUserMessages: [Character_Super_C_0] 163.067322
+[2019.06.11-21.26.13:223][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:223][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:223][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:223][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:223][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:223][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:223][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:223][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:224][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:224][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:224][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:224][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:224][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:224][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:225][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:225][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:225][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:225][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:225][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:225][390]LogBlueprintUserMessages: [Character_Super_C_0] 145.038574
+[2019.06.11-21.26.13:226][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:226][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:226][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:226][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:226][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:226][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.13:227][390]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.13:227][390]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.16:859][595]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.16:860][595]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.16:860][595]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.17:656][635]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.26.17:656][635]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.26.17:656][635]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.26.17:659][635]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.26.17:659][635]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.26.17:659][635]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.26.19:592][728]LogBlueprintUserMessages: [Character_Super_C_0] 8
+[2019.06.11-21.26.19:951][749]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.19:952][749]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.19:952][749]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.20:166][760]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.20:167][760]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.20:167][760]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.20:385][771]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.20:386][771]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.20:386][771]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.20:607][782]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.20:607][782]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.20:607][782]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.20:832][793]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.20:833][793]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.20:833][793]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.21:056][804]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.21:057][804]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.21:057][804]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.21:362][819]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.21:362][819]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.21:362][819]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.21:618][831]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.21:618][831]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.21:618][831]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.24:340][971]LogBlueprintUserMessages: [Character_Super_C_0] 8
+[2019.06.11-21.26.24:362][972]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.24:363][972]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.24:363][972]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.24:594][984]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.24:594][984]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.24:594][984]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.24:792][994]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.24:793][994]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.24:793][994]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.24:995][  4]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.24:996][  4]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.24:996][  4]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.25:593][ 35]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.25:594][ 35]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.25:594][ 35]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.25:848][ 48]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.25:849][ 48]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.25:849][ 48]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.26:071][ 59]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.26:072][ 59]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.26:072][ 59]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.26:298][ 70]LogBlueprintUserMessages: [Character_Super_C_0] walther99_shoot_Montage
+[2019.06.11-21.26.26:298][ 70]LogSkinnedMeshComp: Warning: GetSocketByName(muzzleflash_socket): No SkeletalMesh for Component(CharacterMesh0) Actor(Character_Super_C_0)
+[2019.06.11-21.26.26:298][ 70]LogBlueprintUserMessages: [Character_Super_C_0] 50.0
+[2019.06.11-21.26.29:034][213]LogBlueprintUserMessages: [Character_Super_C_0] 8
+[2019.06.11-21.27.18:757][430]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.27.18:757][430]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.27.18:757][430]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.27.18:760][430]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.27.18:760][430]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.27.18:760][430]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.28.19:858][365]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.28.19:858][365]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.28.19:858][365]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.28.19:860][365]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.28.19:861][365]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.28.19:861][365]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.29.20:966][264]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.29.20:966][264]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.29.20:966][264]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.29.20:969][264]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.29.20:969][264]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.29.20:969][264]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.30.22:080][205]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.30.22:081][205]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.30.22:081][205]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.30.22:083][205]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.30.22:083][205]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.30.22:083][205]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.31.23:195][112]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.31.23:195][112]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.31.23:195][112]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.31.23:198][112]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.31.23:198][112]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.31.23:198][112]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.32.24:298][ 55]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.32.24:298][ 55]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.32.24:298][ 55]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.32.24:301][ 55]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.32.24:301][ 55]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.32.24:301][ 55]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.33.25:414][  6]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.33.25:414][  6]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.33.25:414][  6]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.33.25:417][  6]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.33.25:417][  6]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.33.25:417][  6]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.34.26:525][955]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.34.26:525][955]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.34.26:525][955]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.34.26:528][955]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.34.26:528][955]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.34.26:528][955]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.35.27:637][866]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.35.27:638][866]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.35.27:638][866]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.35.27:640][866]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.35.27:640][866]LogGarbage: Warning:       PIE object: Character_Super_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.Character_Super_C_0
+[2019.06.11-21.35.27:640][866]LogGarbage: Warning:   NON-PIE object: MainUI_C /Engine/Transient.UnrealEdEngine_0:Norilsk_GameInstance_C_2.MainUI_C_0
+[2019.06.11-21.35.29:878][  8]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.35.29:879][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-21.35.29:936][  8]LogSlate: Window 'Norilsk_Weapons Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.11-21.35.29:967][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-21.35.29:967][  8]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.35.30:056][  9]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.06.11-21.51.51:768][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.11-21.52.23:269][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-21.52.37:869][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.06.11-21.52.39:930][788]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2019.06.11-21.53.05:656][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-21.53.30:623][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-21.53.30:775][400]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.11-21.53.30:833][400]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.53.30:833][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.11-21.53.30:833][400]PIE: New page: PIE session: ThirdPersonExampleMap (12 черв. 2019 03:53:30)
+[2019.06.11-21.53.30:834][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.06.11-21.53.30:873][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038615s)
+[2019.06.11-21.53.30:874][400]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.06.11-21.53.30:874][400]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2019.06.11-21.53.30:874][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.040564s)
+[2019.06.11-21.53.30:923][400]LogGarbage: Warning: GC detected illegal reference to PIE object from content [possibly via [todo]]:
+[2019.06.11-21.53.30:923][400]LogGarbage: Warning:       PIE object: World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.06.11-21.53.30:923][400]LogGarbage: Warning:   NON-PIE object: UnrealEdEngine /Engine/Transient.UnrealEdEngine_0
+[2019.06.11-21.53.30:945][400]LogInit: XAudio2 using 'Динамики (Устройство с поддержкой High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.11-21.53.30:955][400]LogInit: FAudioDevice initialized.
+[2019.06.11-21.53.30:961][400]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.11-21.53.31:000][400]LogLoad: Game class is 'BP_FPS_GameMode_C'
+[2019.06.11-21.53.31:006][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.06.12-00.53.31
+[2019.06.11-21.53.31:008][400]LogWorld: Bringing up level for play took: 0.006739
+[2019.06.11-21.53.31:032][400]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0,965
+[2019.06.11-21.53.31:032][400]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.53.34:098][545]LogSlate: Window 'Norilsk_Weapons Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.11-21.53.34:102][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.53.34:141][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.11-21.53.34:141][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.06.11-21.53.34:432][546]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.11-21.53.37:369][696]LogSlate: Took 0.000543 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.11-21.53.37:786][696]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/ThirdPersonExampleMapF0E9ECD24C78BB257C533CA02E36246A.tmp' to '../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.11-21.53.37:899][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2019.06.11-21.53.38:554][696]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/ThirdPersonExampleMap_BuiltData120E57A1468E1EF1DBD643A583BD462A.tmp' to '../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.06.11-21.53.47:354][177]MapCheck: New page: Map Check
+[2019.06.11-21.53.47:512][177]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.06.11-21.53.47:512][177]MapCheck: New page: ThirdPersonExampleMap - 12 черв. 2019 03:53:47
+[2019.06.11-21.53.47:575][177]MapCheck: Warning: alpha_soldier_13 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:575][177]MapCheck: Warning: alpha_soldier_13 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:576][177]MapCheck: Warning: Murdock_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:576][177]MapCheck: Warning: Murdock_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:576][177]MapCheck: Warning: rpk74m_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:576][177]MapCheck: Warning: rpk74m_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:576][177]MapCheck: Warning: chr_gul_2 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:577][177]MapCheck: Warning: chr_gul_2 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:577][177]MapCheck: Warning: sparta_idiot_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:577][177]MapCheck: Warning: sparta_idiot_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:577][177]MapCheck: Warning: anna_stalker_hat1_10 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2019.06.11-21.53.47:577][177]MapCheck: Warning: anna_stalker_hat1_10 Skeletal mesh actor has NULL SkeletalMesh property 
+[2019.06.11-21.53.47:777][177]MapCheck: Map check complete: 0 Error(s), 12 Warning(s), took 264,827ms to complete.
+[2019.06.11-21.53.47:799][177]LogEditorBuildUtils: Build time 0:00
+[2019.06.11-21.54.07:375][900]LogSlate: Window 'Message Log' being destroyed
+[2019.06.11-21.54.07:382][900]LogSlate: Window 'Message Log' being destroyed
+[2019.06.11-21.54.11:598][165]Cmd: DELETE
+[2019.06.11-21.54.11:598][165]Cmd: ACTOR DELETE
+[2019.06.11-21.54.11:867][165]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.06.11-21.54.11:940][165]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2019.06.11-21.54.19:131][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.11-21.54.20:763][741]LogSlate: Window 'Save Content' being destroyed
+[2019.06.11-21.54.21:304][741]LogSavePackage: Moving '../../../../../Norilsk_Weapons/Saved/ThirdPersonExampleMapFF986989456FB041579BB2BB367230D1.tmp' to '../../../../../Norilsk_Weapons/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.06.11-21.54.21:403][741]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.597
+[2019.06.11-21.54.21:692][741]LogSlate: Window 'Norilsk_Weapons - Unreal Editor' being destroyed
+[2019.06.11-21.54.21:953][742]Cmd: QUIT_EDITOR
+[2019.06.11-21.54.22:001][742]LogExit: Preparing to exit.
+[2019.06.11-21.54.22:743][742]LogExit: Editor shut down
+[2019.06.11-21.54.22:745][742]LogExit: Transaction tracking system shut down
+[2019.06.11-21.54.23:319][742]LogExit: Object subsystem successfully closed.
+[2019.06.11-21.54.23:334][742]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.11-21.54.23:341][742]LogD3D11RHI: Shutdown
+[2019.06.11-21.54.23:341][742]LogD3D11RHI: CleanupD3DDevice
+[2019.06.11-21.54.23:344][742]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.11-21.54.23:360][742]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2019.06.11-21.54.23:360][742]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2019.06.11-21.54.23:360][742]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2019.06.11-21.54.23:360][742]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2019.06.11-21.54.23:360][742]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.06.11-21.54.23:361][742]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.06.11-21.54.23:362][742]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.06.11-21.54.23:363][742]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.06.11-21.54.23:364][742]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.06.11-21.54.23:364][742]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2019.06.11-21.54.24:279][742]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2019.06.11-21.54.24:280][742]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2019.06.11-21.54.24:281][742]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2019.06.11-21.54.24:281][742]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2019.06.11-21.54.24:281][742]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2019.06.11-21.54.24:281][742]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2019.06.11-21.54.24:281][742]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2019.06.11-21.54.24:321][742]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2019.06.11-21.54.24:322][742]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2019.06.11-21.54.24:322][742]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2019.06.11-21.54.24:322][742]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2019.06.11-21.54.24:322][742]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2019.06.11-21.54.24:327][742]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2019.06.11-21.54.24:327][742]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2019.06.11-21.54.24:327][742]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2019.06.11-21.54.24:327][742]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2019.06.11-21.54.24:328][742]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2019.06.11-21.54.24:329][742]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.11-21.54.24:564][742]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.11-21.54.24:564][742]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.11-21.54.24:565][742]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.11-21.54.24:565][742]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2019.06.11-21.54.24:602][742]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2019.06.11-21.54.24:605][742]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2019.06.11-21.54.24:622][742]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2019.06.11-21.54.24:623][742]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.11-21.54.24:624][742]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.11-21.54.24:625][742]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.11-21.54.24:737][742]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.11-21.54.24:855][742]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.11-21.54.24:858][742]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.11-21.54.24:858][742]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.11-21.54.24:859][742]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.11-21.54.24:859][742]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.11-21.54.24:860][742]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.11-21.54.24:908][742]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2019.06.11-21.54.24:944][742]LogModuleManager: Shutting down and abandoning module Media (243)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2019.06.11-21.54.24:950][742]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2019.06.11-21.54.24:951][742]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2019.06.11-21.54.24:951][742]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2019.06.11-21.54.24:951][742]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2019.06.11-21.54.24:951][742]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module Core (188)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.06.11-21.54.24:954][742]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2019.06.11-21.54.24:955][742]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2019.06.11-21.54.25:045][742]LogDerivedDataCache: Shutdown
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2019.06.11-21.54.25:045][742]LogXGEController: Cleaning working directory: C:/Windows/Temp/UnrealXGEWorkingDir/
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2019.06.11-21.54.25:045][742]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2019.06.11-21.54.25:046][742]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2019.06.11-21.54.25:048][742]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2019.06.11-21.54.25:048][742]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2019.06.11-21.54.25:050][742]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2019.06.11-21.54.25:050][742]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.06.11-21.54.25:068][742]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2019.06.11-21.54.25:069][742]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2019.06.11-21.54.25:069][742]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2019.06.11-21.54.25:069][742]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2019.06.11-21.54.25:069][742]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2019.06.11-21.54.25:069][742]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2019.06.11-21.54.25:071][742]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2019.06.11-21.54.25:071][742]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2019.06.11-21.54.25:098][742]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2019.06.11-21.54.25:098][742]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.11-21.54.25:098][742]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC3E222E9-4610-97E3-3B42-909A444C9D39%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=249a339b483c7931bce28599e98485ca%7C9cb60ef5264d4eedba904f61f309a632%7C8cf5bfbf-535c-4ee3-a3cc-da9fd8a899b4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.11-21.54.25:133][742]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2019.06.11-21.54.25:151][742]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2019.06.11-21.54.25:152][742]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2019.06.11-21.54.25:152][742]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.11-21.54.25:153][742]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.11-21.54.25:155][742]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.11-21.54.25:165][742]LogExit: Exiting.
+[2019.06.11-21.54.25:172][742]Log file closed, 06/12/19 00:54:25

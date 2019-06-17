@@ -1,0 +1,19 @@
+		S.T.A.L.K.E.R texture extractor
+		 XashXT Group 2018(c)
+
+
+processing body_rpk74m.dds
+write body_rpk74m.tga
+processing body_rpk74m_bump.dds
+load gloss (body_rpk74m_bump#.dds)
+write body_rpk74m_gloss.tga
+write body_rpk74m_bump.tga
+processing grips_rpk74m.dds
+write grips_rpk74m.tga
+processing grips_rpk74m_bump.dds
+load gloss (grips_rpk74m_bump#.dds)
+write grips_rpk74m_gloss.tga
+write grips_rpk74m_bump.tga
+  6 files processed,   0 errors
+1 second elapsed
+press any key to exit
