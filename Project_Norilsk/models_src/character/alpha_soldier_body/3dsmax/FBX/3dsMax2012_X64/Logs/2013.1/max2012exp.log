@@ -1,104 +1,0 @@
-2019-04-19 01:28:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:36:55: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:40:07: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:41:40: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:42:26: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:45:24: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:47:16: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:48:38: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:49:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:51:38: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-04-19 01:58:16: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_test.FBX
-2019-04-19 02:01:30: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_test.FBX
-2019-04-19 02:04:13: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_0_idle_0.FBX
-2019-05-04 14:16:00: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\alpha_soldier.FBX
-2019-05-04 16:05:41: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_0_idle_0.FBX
-2019-05-04 16:26:10: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_idle_1__.FBX
-2019-05-04 16:27:45: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_fwd_0.FBX
-2019-05-04 16:28:05: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_bwd_0.FBX
-2019-05-04 16:28:27: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_left_0.FBX
-2019-05-04 16:28:57: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_right_0.FBX
-2019-05-04 16:32:44: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_fwd_0.FBX
-2019-05-04 16:33:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_bwd_0.FBX
-2019-05-04 16:33:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_bwd_left_0.FBX
-2019-05-04 16:34:17: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_bwd_right_0.FBX
-2019-05-04 16:34:52: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_fwd_left_0.FBX
-2019-05-04 16:35:12: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_fwd_right_0.FBX
-2019-05-04 16:38:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_left_0.FBX
-2019-05-04 16:39:30: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_right_0.FBX
-2019-05-04 16:39:43: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_left_0.FBX
-2019-05-04 16:43:44: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_left_0.FBX
-2019-05-04 16:44:08: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_walk_right_0.FBX
-2019-05-04 17:29:45: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_jump_begin.FBX
-2019-05-04 17:30:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_jump_end.FBX
-2019-05-04 17:30:32: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_jump_begin.FBX
-2019-05-04 17:30:47: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_jump_end.FBX
-2019-05-04 17:31:21: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_jump_idle.FBX
-2019-05-04 18:14:02: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_fwd.FBX
-2019-05-04 18:14:37: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_left.FBX
-2019-05-04 18:15:24: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_right.FBX
-2019-05-04 18:15:44: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_left_fwd.FBX
-2019-05-04 18:16:02: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_left_fwd.FBX
-2019-05-04 18:16:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_escape_right_fwd.FBX
-2019-05-04 22:55:15: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\start_level_temp.FBX
-2019-05-05 18:33:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_2_reload_0.FBX
-2019-05-05 18:39:05: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_3_reload_0.FBX
-2019-05-05 18:39:35: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_3_attack_0.FBX
-2019-05-05 19:34:10: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0.FBX
-2019-05-05 19:34:32: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_attack_0.FBX
-2019-05-05 19:37:55: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_Down.FBX
-2019-05-05 19:39:29: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_Up.FBX
-2019-05-05 19:43:15: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_Down.FBX
-2019-05-05 19:44:05: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_Up.FBX
-2019-05-05 19:44:47: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_Down.FBX
-2019-05-05 19:57:32: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_2_aim_4.FBX
-2019-05-05 20:29:10: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_holster_0.FBX
-2019-05-05 20:30:00: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_unstrap_3.FBX
-2019-05-06 00:25:56: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_1_aim_0_1.FBX
-2019-05-06 00:55:42: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_0_run_1.FBX
-2019-05-06 00:57:41: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_0_walk_1.FBX
-2019-05-06 00:58:37: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\start_level_temp.FBX
-2019-05-06 00:59:26: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body\anim_norm_torso_0_escape_0.FBX
-2019-05-06 02:02:10: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_left_0.FBX
-2019-05-06 02:02:40: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_right_0.FBX
-2019-05-06 02:17:23: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_right_0.FBX
-2019-05-06 02:17:35: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_left_0.FBX
-2019-05-06 02:18:41: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_run_left_0.FBX
-2019-05-06 02:19:02: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_right_0.FBX
-2019-05-06 02:20:01: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_left_0.FBX
-2019-05-06 02:22:10: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\alpha_soldier_body
-orm_turn_left_0.FBX

@@ -1,78 +1,0 @@
-2019-03-23 09:45:12: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\player_exo.FBX
-2019-03-23 10:02:11: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\player_exo.FBX
-2019-03-23 10:27:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_0_idle_0.FBX
-2019-03-23 10:47:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_0_run_0.FBX
-2019-03-23 10:48:36: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_0_walk_0.FBX
-2019-03-23 11:15:00: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_jump_idle.FBX
-2019-03-23 11:15:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_jump_begin.FBX
-2019-03-23 11:15:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_jump_end_1.FBX
-2019-03-23 11:18:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_jump.FBX
-2019-03-23 11:44:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\player_exo.FBX
-2019-03-23 14:14:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_0_run_0.FBX
-2019-03-23 14:48:37: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_2_aim_0.FBX
-2019-03-23 14:54:56: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_2_aim_2.FBX
-2019-03-23 15:03:15: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_walk_fwd_0.FBX
-2019-03-23 15:04:58: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_walk_back_0.FBX
-2019-03-23 15:06:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_walk_ls_0.FBX
-2019-03-23 15:06:54: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_walk_rs_0.FBX
-2019-03-23 15:11:33: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_back_0.FBX
-2019-03-23 15:13:38: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_fwd_0.FBX
-2019-03-23 15:14:18: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_ls_0.FBX
-2019-03-23 15:15:38: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_rs_0.FBX
-2019-03-23 15:16:08: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_fwd_rs_0.FBX
-2019-03-23 15:16:50: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_fwd_ls_0.FBX
-2019-03-23 15:17:18: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_back_ls_0.FBX
-2019-03-23 15:17:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_run_back_rs_0.FBX
-2019-03-24 00:49:56: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_2_unstrap.FBX
-2019-03-24 14:49:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L.FBX
-2019-03-24 14:50:36: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R.FBX
-2019-03-24 14:52:29: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Up.FBX
-2019-03-24 14:53:39: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Up.FBX
-2019-03-24 14:54:05: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Down.FBX
-2019-03-24 14:54:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R.FBX
-2019-03-24 14:54:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L.FBX
-2019-03-24 14:55:33: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L_Down.FBX
-2019-03-24 14:55:59: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L_Up.FBX
-2019-03-24 14:56:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R_Up.FBX
-2019-03-24 14:57:09: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R_Down.FBX
-2019-03-24 16:05:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Down.FBX
-2019-03-24 16:05:41: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Up.FBX
-2019-03-24 16:07:43: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Up.FBX
-2019-03-24 16:08:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_Down.FBX
-2019-03-24 16:08:26: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R.FBX
-2019-03-24 16:08:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L.FBX
-2019-03-24 16:09:48: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L_Up.FBX
-2019-03-24 16:10:08: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_L_Down.FBX
-2019-03-24 16:11:03: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R.FBX
-2019-03-24 16:11:30: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R_Down.FBX
-2019-03-24 16:11:56: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\aim_R_Up.FBX
-2019-03-26 01:29:32: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\anim_norm_torso_2_reload_0.FBX
-2019-03-27 23:56:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_walk_f.FBX
-2019-03-27 23:58:06: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_walk_ls_0.FBX
-2019-03-27 23:58:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_walk_rs_0.FBX
-2019-03-28 00:01:56: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_torso_2_aim_0.FBX
-2019-03-28 00:10:28: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_torso_0_aim_0.FBX
-2019-03-28 00:29:46: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_torso_0_walk_fwd.FBX
-2019-03-28 00:32:18: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\cr_idle_0_0.FBX
-2019-03-28 01:39:35: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_torso_2_attack_2.FBX
-2019-03-31 00:20:35: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\heavy_nazzi.FBX
-2019-03-31 02:02:00: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\heavy_nazzi.FBX
-2019-03-31 13:46:39: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character\heavy_nazzi.FBX
-2019-03-31 13:47:00: LOG: [ERROR  ] Skin Modifier Export - The following object(s) have their skin defined at different positions or a 
-	different Initial Pose. Some 3D software may not re-create skin deformations 
-	correctly :  bip01_tail bip01_r_finger22 bip01_r_finger21 bip01_r_finger2 bip01_r_finger12 bip01_r_finger11 bip01_r_finger1 bip01_r_finger02 bip01_r_finger01 bip01_r_finger0 bip01_r_hand bip01_r_upperarm bip01_l_finger22 bip01_l_finger21 bip01_l_finger2 bip01_l_finger12 bip01_l_finger11 bip01_l_finger1 bip01_l_finger02 bip01_l_finger01 bip01_l_finger0 bip01_l_hand bip01_l_clavicle jaw_1 bip01_neck bip01_spine2 bip01_spine bip01_r_toe0 bip01_r_foot bip01_r_calf bip01_r_thigh bip01_l_toe0 bip01_l_foot bip01_l_calf bip01_pelvis
-2019-05-05 18:25:39: LOG: Export: H:\Workbench\UE4_Projects\ThirdPersonShooter\models_src\character
-orm_torso_2_attack_0.FBX
